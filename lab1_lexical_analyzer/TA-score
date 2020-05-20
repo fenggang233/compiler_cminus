@@ -1,0 +1,8 @@
+test score
+50
+doc score
+95
+sum
+72.5
+comments
+testcase测试，出现的错误： array与TA结果不同， multiline与TA结果不同， selectionsort与TA结果不同， specialmark与TA结果不同，
